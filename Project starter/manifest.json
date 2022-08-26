@@ -1,0 +1,15 @@
+{
+  "name": "Project starter",
+  "id": "1144642275455162998",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "permissions": [
+    "currentuser",
+    "activeusers",
+    "fileusers"
+  ],
+  "editorType": [
+    "figma"
+  ]
+}
